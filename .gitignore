@@ -1,4 +1,5 @@
 ./mysite/
+mysite
 __pycache__
 polls/__pycache__
 mysite/__pycache__
